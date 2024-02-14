@@ -11,6 +11,7 @@ The purpose of this project is to create a tool for a non-profit foundation to a
 
 ### Methods Used
 * Deep Learning
+* Data Preprocessing
 * Binary Classification
 
 ### Technologies
